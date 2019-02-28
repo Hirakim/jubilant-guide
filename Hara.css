@@ -2,21 +2,21 @@
 i.har {
     font-style: bold;
     font-variant: small-caps;
-    color: #6d2707;
+    color: #f97f99;
     font-size 150%;
     font-family: cursive;
     background-color: transparent;
-    -webkit-animation: glow 1s ease-in-out infinite alternate;
-    -moz-animation: glow 1s ease-in-out infinite alternate;
-    animation: glow 1s ease-in-out infinite alternate;
+    -webkit-animation: glow 2s ease-in-out infinite alternate;
+    -moz-animation: glow 2s ease-in-out infinite alternate;
+    animation: glow 2s ease-in-out infinite alternate;
     }
 
 @-webkit-keyframes glow {
   from {
-    text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px ##6d3101, 0 0 4px ##6d3101, 0 0 5px ##6d3101, 0 0 6px ##6d3101, 0 0 7px ##6d3101
+    text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 3px #76ff54, 0 0 4px #76ff54, 0 0 5px #76ff54, 0 0 6px #76ff54, 0 0 7px #76ff54
   }
   to {
-    text-shadow: 0 0 2px #fff, 0 0 3px #a56430, 0 0 4px #a56430, 0 0 5px #a56430, 0 0 6px #a56430, 0 0 7px #a56430, 0 0 8px #a56430
+    text-shadow: 0 0 2px #fff, 0 0 3px #3eff0f, 0 0 4px #3eff0f, 0 0 5px #3eff0f, 0 0 6px #3eff0f, 0 0 7px #a56430, 0 0 8px #a56430
   }
 }
     
