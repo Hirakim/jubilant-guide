@@ -7,7 +7,7 @@ i.har {
   color: #000;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  -webkit-animation: hue 10s infinite linear, scroll 6s infinite linear;
+  -webkit-animation: hue 20s infinite linear, scroll 6s infinite linear;
 }
 
 @-webkit-keyframes hue {
